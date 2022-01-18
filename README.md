@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @CoffeeToffeee
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning nothing
-- 💞️ I’m looking to collaborate on code
-- 📫 How to reach me discord- CoffeeToffee#7416
+Im potato
+im stupid
+i can type sometimes (python rn)
+dm me on discord if you run into any issue or have any feedback
+PotatOwO#2272
+
+Also stop reading im getting self concious
 
 <!---
 CoffeeToffeee/CoffeeToffeee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
